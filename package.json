@@ -1,0 +1,26 @@
+{
+  "name": "u-uber-server",
+  "version": "1.0.0",
+  "description": "server for uber clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anjaliasha123/U-Uber-Server.git"
+  },
+  "author": "anjali asha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anjaliasha123/U-Uber-Server/issues"
+  },
+  "homepage": "https://github.com/anjaliasha123/U-Uber-Server#readme",
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^5.2.2"
+  }
+}
